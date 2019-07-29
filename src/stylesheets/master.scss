@@ -1,0 +1,17 @@
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  h1 {
+    width: 100%;
+    text-align: center;
+  }
+  .card {
+    margin: 1vw;
+    width: 35vw;
+    height: 40vw;
+    border: 2px solid white;
+    padding: 2vw;
+  }
+}
